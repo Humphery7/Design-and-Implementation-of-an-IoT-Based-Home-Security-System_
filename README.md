@@ -63,5 +63,5 @@ This project is open-source
 Otuoniyo Ufuoma-Oghene Humphery, Alimi RereOluwa Victor, Asepeoluwa Solutiontech, Peter Emmanuel Ameh, Temioluwa Akinbile
 
 ### Acknowledgments
-
+- Dr T.K Yesufu 
 - Special thanks to the Arduino and ESP32 communities for their valuable resources and support.
